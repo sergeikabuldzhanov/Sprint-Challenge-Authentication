@@ -34,7 +34,6 @@
     "crossenv": "0.0.2-security",
     "eslint": "^6.8.0",
     "eslint-plugin-react": "^7.18.0",
-    "jest": "^25.1.0",
     "nodemon": "^2.0.2",
     "supertest": "^4.0.2"
   }
